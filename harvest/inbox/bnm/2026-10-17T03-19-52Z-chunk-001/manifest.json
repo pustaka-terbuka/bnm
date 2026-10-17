@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "bnm",
+  "agency_code": "BNM",
+  "run_id": "2026-10-17T03-19-52Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:19:53.240Z",
+  "harvester": {
+    "name": "bnm-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "65d4655343c3c89f5b4f5c8aedf7cc6bd89c92641451af84c5d2cf3203146952"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "250b31715144621d2f113589f1ba7b6f88ec46b3f3d8967333978a0d1d85b586"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "162ce79f584cf425bcfafb2fd410bf8d581297e2959b7820cf8569e3a7f0f452"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "4ac0d2cd9258241f4c3a94840ec83bbeeee1ddcb1cd18f97ce08539372bd69c4"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "0e2571787fcf9f148edafb23bde955c039a7b0d5131777160a74c3f81a6beae3"
+    }
+  ]
+}
